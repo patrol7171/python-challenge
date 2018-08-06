@@ -1,5 +1,5 @@
 # Python Challenge: Two Analysis Scenarios
-## These sample scenarios showcase the use of Python and Jupyter Notebook to conduct analysis on particular datasets in order to draw conclusions and determine specific outcomes.
+### *These sample scenarios showcase the use of Python and Jupyter Notebook to conduct analysis on particular datasets in order to draw conclusions and determine specific outcomes.*
 
 #### PyBoss Analysis
 For this challenge, TunaFirst company is developing Tuna 2.0, a world-changing snack food based on canned tuna fish. The company recently decided to purchase a new HR system, and unfortunately, the new system requires employee records be stored completely differently.  The primary task is to help bridge the gap by creating a Python script able to convert employee records to the required format by doing the following:
